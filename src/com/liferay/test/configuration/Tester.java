@@ -2,7 +2,7 @@ package com.liferay.test.configuration;
 
 import com.germinus.easyconf.ComponentConfiguration;
 import com.germinus.easyconf.ComponentProperties;
-//import com.germinus.easyconf.EasyConf;
+import com.germinus.easyconf.EasyConf;
 
 public class Tester {
 
